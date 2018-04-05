@@ -1,6 +1,10 @@
 @font-face {
 	font-family: Adam;
-	src: url(Documents/Adam.ttf)
+	src: url(./fonts/Adam.ttf)
+}
+@font-face {
+	font-family: "Proxima-Nova-Bold";
+	src: url(./fonts/ProximaNovaExtrabold.otf)
 }
 body{
 background-color: #f2f2f2;
@@ -12,7 +16,12 @@ font-size: 50px;
 text-align: center;
 color: #262626;
 }
-
+h2{
+	font-family: "Proxima-Nova-Bold";
+	font-size: 60px;
+	color: #262626;
+	text-align: center;
+}
 .bar{
     background-color: #262626;
     overflow: hidden;
