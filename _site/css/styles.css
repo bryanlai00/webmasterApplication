@@ -1,10 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
 @font-face {
 	font-family: Adam;
 	src: url(fonts/Adam.otf)
 }
 @font-face {
-	font-family: "Proxima-Nova-Bold";
-	src: url(fonts/ProximaNovaExtrabold.otf)
+	font-family: "Comfortaa";
 }
 body{
 background-color: #f2f2f2;
@@ -17,13 +17,13 @@ text-align: center;
 color: #262626;
 }
 h2, ul{
-	font-family: "Proxima-Nova-Bold";
+	font-family: "Comfortaa";
 	font-size: 50px;
 	color: #262626;
 	text-align: center;
 }
 h3, li{
-	font-family: "Proxima-Nova-Bold";
+	font-family: "Comfortaa";
 	font-size: 30px;
 	color: #262626;
 	text-align: center;
