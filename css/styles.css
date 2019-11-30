@@ -15,7 +15,11 @@ body{
 .smallbox {
         width: 70%;
 }
-img {
+.media {
+        width: 100px;
+        height: 100px;
+        display: inline;
+        margin-left: 10px;
 }
 .black {
         background-color: #262626;

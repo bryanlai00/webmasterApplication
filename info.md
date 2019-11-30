@@ -6,7 +6,7 @@ layout: tab
 
 <br>
 <div class="row">
-<div class="card col-md-3 black">
+<div class="card shadow p-3 mb-5 col-md-3 black">
 <br>
 <div class="card-title">
 About Me
@@ -27,7 +27,7 @@ I'm a front and back-end web developer. Throughout my CS Journey, I have become 
 </div> 
 
 
-<div class="card col-md-5 black">
+<div class="card shadow p-3 mb-5 col-md-5 black">
 <br>
 <div class="card-title">
 Projects:
@@ -49,7 +49,7 @@ Takes in a search option and tweets with the same parameters. With the Google Ma
 </div> 
 
 
-<div class="card col-md-3 black">
+<div class="card shadow p-3 mb-5 col-md-3 black">
 <br>
 <div class="card-title">
 About the Website:
