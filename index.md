@@ -1,7 +1,11 @@
 ---
 layout: tab
 ---
-<h2> <u> Card Blog Posts </u> </h2>
+<center>
+<div class="card shadow p-3 mb-5 front col-md-6">
+<h2> Card Blog Posts </h2>
+</div>
+</center>
 <br>
 {% for post in site.posts) %}
   {% assign remainder = forloop.index | modulo: 3 | minus: 1%}

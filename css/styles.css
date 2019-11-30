@@ -6,6 +6,14 @@
 @font-face {
         font-family: "Comfortaa";
 }
+.sphere {
+        background-image: url(../img/sphere.gif);
+        background-size: cover;
+        background-repeat: no-repeat;
+}
+.front {
+        background-color: #F1E6E6;
+}
 p {
         font-family: "Comfortaa";
 }

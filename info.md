@@ -1,7 +1,11 @@
 ---
 layout: tab
 ---
+<center>
+<div class="card shadow p-3 mb-5 col-md-8 front">
 <h2> <img src="img/hornet.gif" class="rounded-circle" hspace="20"> Hi, I'm Bryan. </h2>
+</div>
+</center>
 
 
 <br>
@@ -56,6 +60,11 @@ About the Website:
 </div>
 <div class="card-body">
 There's not much to say other than that it still has a LONG way to go. Currently it is written through the use of Jekyll and Bootstrap. As for hosting, Github Pages has got me covered for now. =)
+<br>
+<br>
+<center>
+<img src="img/web.gif" class="media rounded-circle">
+</center>
 </div>
 </div> 
 </div>
