@@ -12,8 +12,16 @@ p {
 body{
         background-color: #f2f2f2;
 }
+.smallbox {
+        width: 70%;
+}
+img {
+}
+.black {
+        background-color: #262626;
+}
 .card-title {
-        font-size: 20px;
+        font-size: 30px;
 }
 .card {
         font-family: "Comfortaa";
@@ -27,13 +35,13 @@ h1{
         text-align: center;
         color: #262626;
 }
-h2, ul{
+h2{
         font-family: "Comfortaa";
         font-size: 50px;
         color: #262626;
         text-align: center;
 }
-h3, li{
+h3{
         font-family: "Comfortaa";
         font-size: 30px;
         color: #262626;
