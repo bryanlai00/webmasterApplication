@@ -2,8 +2,8 @@
 layout: tab
 ---
 <center>
-<div class="card shadow p-3 mb-5 front col-md-6">
-<h2> Card Blog Posts </h2>
+<div class="card shadow p-3 mb-5 black col-md-6">
+<h4> Card Blog Posts </h4>
 </div>
 </center>
 <br>
@@ -15,13 +15,14 @@ layout: tab
   {% if remainder == 0 %}
   <div class="row"> 
   {% endif %}
-  <div class="card bg-dark shadow-lg p-3 mb-5 col-md-3">
+  <div class="card black shadow-lg p-3 mb-5 col-md-3">
     <div class="card-title">
+      {{ post.title }}
+    <div class="nd">
       Blog Post No. {{ post.number }}
       <br>
-      {{ post.title }}
-      <br>
       Date: {{ post.date | date_to_string }}
+    </div>
     </div>
     <div class="card-body">
       {{post.content}}

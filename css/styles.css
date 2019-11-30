@@ -1,4 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+        height: 40px;
+        width: 40px;
+        outline: black;
+        color: white;
+        background-size: 100%, 100%;
+        border-radius: 50%;
+        border: 3px solid black;
+        background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+        content: '>';
+        font-size: 25px;
+        color: black;
+}
+
+.carousel-control-prev-icon:after {
+        content: '<';
+        font-size: 25px;
+        color: black;
+}
 @font-face {
         font-family: Adam;
         src: url(fonts/Adam.otf)
@@ -7,6 +31,7 @@
         font-family: "Comfortaa";
 }
 .sphere {
+        height: 100%;
         background-image: url(../img/sphere.gif);
         background-size: cover;
         background-repeat: no-repeat;
@@ -17,8 +42,14 @@
 p {
         font-family: "Comfortaa";
 }
+html {
+        height: 100%;
+}
 body{
-        background-color: #f2f2f2;
+        height: 100%;
+}
+.nd {
+        font-size: 15px;
 }
 .smallbox {
         width: 70%;
@@ -61,8 +92,8 @@ h3{
 }
 h4 {
         font-family: "Comfortaa";
-        font-size: 30px;
-        color: #262626;
+        font-size: 50px;
+        color: white;
 }
 a {
         text-decoration: none;

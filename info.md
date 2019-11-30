@@ -2,8 +2,8 @@
 layout: tab
 ---
 <center>
-<div class="card shadow p-3 mb-5 col-md-8 front">
-<h2> <img src="img/hornet.gif" class="rounded-circle" hspace="20"> Hi, I'm Bryan. </h2>
+<div class="card shadow p-3 mb-5 col-md-8 black">
+<h4><img src="img/hornet.gif" class="rounded-circle" hspace="20"> Hi, I'm Bryan.</h4>
 </div>
 </center>
 
@@ -68,4 +68,3 @@ There's not much to say other than that it still has a LONG way to go. Currently
 </div>
 </div> 
 </div>
-<br>
