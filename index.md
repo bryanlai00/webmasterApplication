@@ -20,7 +20,7 @@ Each card represents a post, with its respective Title, Number and Date.
   {% if remainder == 0 %}
   <div class="row"> 
   {% endif %}
-  <div class="card black shadow-lg p-3 mb-5 col-md-3">
+  <div class="card black shadow-lg p-3 mb-5 col-md-3" style="margin-left: 50px;">
     <div class="card-title">
       {{ post.title }}
       {% if post.image %}

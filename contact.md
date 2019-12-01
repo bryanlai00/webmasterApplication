@@ -6,7 +6,7 @@ permalink: contact
 <div class="row">
 
 
-<div class="card shadow p-3 mb-5 col-md-5 black">
+<div class="card shadow p-3 mb-5 col-md-5 black" style="margin-left: 50px;">
 <br>
 <div class="card-title">
 Need to Contact me for any reason?
@@ -18,7 +18,7 @@ You can e-mail me at buraianrai@gmail.com. You can also contact me on social med
 </div>
 
 
-<div class="card shadow p-3 mb-5 col-md-6 black">
+<div class="card shadow p-3 mb-5 col-md-6 black" style="margin-left: 40px;">
 <br>
 <div class="card-title">
 Social Media
