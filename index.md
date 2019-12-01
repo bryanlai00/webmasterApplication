@@ -2,8 +2,13 @@
 layout: tab
 ---
 <center>
-<div class="card shadow p-3 mb-5 black col-md-6">
-<h4> Card Blog Posts </h4>
+<div class="card shadow p-3 mb-5 black col-md-5">
+<div class="card-title">
+<h4>Blog</h4>
+<div class="nd">
+Each card represents a post, with its respective Title, Number and Date.
+</div>
+</div>
 </div>
 </center>
 <br>
@@ -18,6 +23,9 @@ layout: tab
   <div class="card black shadow-lg p-3 mb-5 col-md-3">
     <div class="card-title">
       {{ post.title }}
+      {% if post.image %}
+      <img src="{{ post.image }}" class="media rounded-circle" style="float: right; opacity: 0.8">
+      {% endif %}
     <div class="nd">
       Blog Post No. {{ post.number }}
       <br>
