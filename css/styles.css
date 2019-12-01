@@ -30,6 +30,11 @@
 @font-face {
         font-family: "Comfortaa";
 }
+
+.face {
+        width: 125px;
+}
+
 .card {
         transition: transform .3s;
 }

@@ -3,7 +3,7 @@ layout: tab
 ---
 <center>
 <div class="card shadow p-3 mb-5 col-md-8 black">
-<h4><img src="img/hornet.gif" class="rounded-circle" hspace="20"> Hi, I'm Bryan.</h4>
+<h4><img src="img/me.jpg" class="face rounded-circle" hspace="20"> Hi, I'm Bryan.</h4>
 </div>
 </center>
 
