@@ -57,4 +57,3 @@ Rather than relying on a complex content management system to serve content, thi
 Interested in how our site is built? Our site is 100% open source; feel free to take a look at our source code to learn more about how we use Jekyll to create our website.
 </div>
 </div> 
-</div>
