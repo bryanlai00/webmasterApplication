@@ -8,7 +8,6 @@ layout: tab
 </center>
 
 
-<br>
 <div class="row">
 <div class="card shadow p-3 mb-5 col-md-3 black" style="margin-left: 50px;">
 <br>
@@ -19,32 +18,25 @@ About Me
 I'm a front and back-end web developer. Throughout my CS Journey, I have become familiar with a multitude of programming languages including Ruby on Rails, Java, Python, and Javascript. I am also proficient in HTML, CSS, Git. 
 <br>
 <br>
-<b><u>Other Stuff about me:</u></b>
-<ol>
-<li> I've been playing piano for a long while now. The weird part about it? I hate classical music.
-</li>
-<li> My interest in technology doesn't just stop at Web Development. There's also... Minecraft. 
-</li>
-</ol>
-</div>
-
+Currently, I attend Stuyvesant High School and am planning to major in Computer Science while in college to earn my Bachelor's Degree.
 </div> 
+</div>
 
 
 <div class="card shadow p-3 mb-5 col-md-4 black" style="margin-left: 40px;">
 <br>
 <div class="card-title">
-Projects:
+Some CS Works/Projects:
 </div>
 <div class="card-body">
-<b style="font-size: 25px;"> <u>Team Manager:</u> </b>
+<b style="font-size: 25px;"> <u>Team Manager:</u> <a href="https://github.com/StuyPulse/teammanager/" target="_blank"><img src="img/github.png" class="media rounded-circle" style="width: 25px; height: 25px;"></a> </b>
 <br>
 <b> <u>Description:</u> </b> An open source application designed to contain records and manage information with students on the Stuyvesant Robotics Team. Built with JavaScript, React, and the Twilio SMS API.
 <br>
 <b> <u>Uses:</u> </b> Google OAuth for login purposes, Rails Action Controllers and Views as well as CSS, HTML, Ruby and Javascript from open source libraries.
 <br>
 <br>
-<b style="font-size: 25px;"> <u>Tweeter:</u> </b>
+<b style="font-size: 25px;"> <u>Tweeter:</u> <a href="https://github.com/bryanlai00/Tweeter" target="_blank"><img src="img/github.png" class="media rounded-circle" style="width: 25px; height: 25px;"></a> </b>
 <br>
 <b><u>Description:</u> </b>A web application built to visualize specific data from tweets all around the world. Built with Javascript, HTML, CSS, Google Maps API and Twitter Developers API.
 <br>
@@ -56,15 +48,13 @@ Takes in a search option and tweets with the same parameters. With the Google Ma
 <div class="card shadow p-3 mb-5 col-md-3 black" style="margin-left: 40px;">
 <br>
 <div class="card-title">
-About the Website:
+About the Website: <a href="https://github.com/bryanlai00/bryanlai00.github.io" target="_blank"><img src="img/github.png" class="media rounded-circle" style="width: 40px; height: 40px;"></a>
 </div>
 <div class="card-body">
-There's not much to say other than that it still has a LONG way to go. Currently it is written through the use of Jekyll and Bootstrap. As for hosting, Github Pages has got me covered for now. =)
+Rather than relying on a complex content management system to serve content, this website is built with Jekyll, a “simple, blog aware, static site generator” written in Ruby. As a purely static site, no server-side processing is necessary after the site is initially built. Furthermore, this site is hosted on GitHub Pages, resulting in extremely fast page load times. Most of the content is formatted with Markdown, which gets converted into HTML when the site is built. 
 <br>
 <br>
-<center>
-<img src="img/web.gif" class="media rounded-circle">
-</center>
+Interested in how our site is built? Our site is 100% open source; feel free to take a look at our source code to learn more about how we use Jekyll to create our website.
 </div>
 </div> 
 </div>
