@@ -95,6 +95,7 @@ a {
         overflow: hidden;
         font-family: Adam;
         font-weight: bold;
+        transition: background-color 0.5s ease; color: 0.5s ease;
 }
 .bar a {
         float: left;
@@ -106,7 +107,9 @@ a {
         font-size: 30px;
 }
 .bar a:hover {
-        background-color: #404040;
+        transition: background-color 0.5s ease; color 0.5s ease;
+        background-color: white;
+        color: #262626;
 }
 .bar .icon {
         display: none;
@@ -131,4 +134,3 @@ a {
                 display: block;
                 text-align: left;
         }
-}
